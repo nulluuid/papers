@@ -3,7 +3,7 @@
 ### Use strong passwords
 
 What is a strong password?
-- Good password **lenght** (at least **16** characters)
+- Good password **length** (at least **16** characters)
 - **Random** characters (Uppercase, lowercase) numbers and symbols (:(){ :|:& };:)
 - **Not** a **dictionary word**
 - Not like your **previous** passwords
@@ -11,7 +11,7 @@ What is a strong password?
 
 ### Use password managers
 
-I personaly recomend [bitwarden](https://bitwarden.com)
+I personally recommend [bitwarden](https://bitwarden.com)
 
 Pros:
 - Free for personal use
@@ -25,7 +25,7 @@ Cons:
 
 ### Use 2fa
 
-First of all you need a 2fa app. I personaly recommend [2FAS](https://2fas.com/)
+First of all you need a 2fa app. I personally recommend [2FAS](https://2fas.com/)
 
 Pros:
 - Free for personal use
@@ -48,7 +48,7 @@ What else you should know about 2fa:
 Use secure mail service [Proton mail](https://proton.me)
 
 Pros:
-- Trackers blocking (eg. Sendgrid.com)
+- Trackers blocking (such as Sendgrid.com)
 - One free VPN connection
 - One GB free for mail, calendar and drive
 - Password manager
