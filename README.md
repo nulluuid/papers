@@ -7,3 +7,5 @@
 # LINKS
 
 [Information Sources](./links/information_sources.md) Where to find information?
+
+[Education](./links/education.md) Training, books and youtube videos.
